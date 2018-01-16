@@ -64,7 +64,7 @@ GitHub - BananaGikoH
 felesitas.cloudが落ちている時、サーバー状況をここから発信しています。
 - [don(末代鯖)](https://mstdn.maud.io/@BananaGiko_cle)
 - [pawoo.net](https://pawoo.net/@BananaGiko_cle)
-- [mstdn.jp](https://mstdn.jp@BananaGiko_cle)
+- [mstdn.jp](https://mstdn.jp/@BananaGiko_cle)
 - [knzk.me](https://knzk.me/@BananaGiko_cle)
 - [mastodon.cloud](https://mastodon.cloud/@BananaGiko_cle)
   
