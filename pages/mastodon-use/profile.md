@@ -60,8 +60,10 @@ GitHub - BananaGikoH
 
 ### 取得アカウント一覧
 - [felesitas.cloud](https://felesitas.cloud/@BananaGiko_cle)
+
 主に使用しているアカウントになります。
 - [fuwa.m.to](https://huwa.m.to/@BananaGiko_cle)
+
 felesitas.cloudが落ちている時、サーバー状況をここから発信しています。
 - [don(末代鯖)](https://mstdn.maud.io/@BananaGiko_cle)
 - [pawoo.net](https://pawoo.net/@BananaGiko_cle)
@@ -75,4 +77,5 @@ felesitas.cloudが落ちている時、サーバー状況をここから発信�
 - [quesdon](https://quesdon.rinsuki.tk/@BananaGiko_cle@felesitas.cloud)
 
 - discord・Skype
+
 もやっています。良ければ声を掛けてください。
