@@ -1,5 +1,5 @@
 # homepage
-my home pages.
+現在[この場所](https://bananagikoh.github.io/homepage/)です。
 
 ### サイトマップ
 
