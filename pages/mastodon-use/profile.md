@@ -12,10 +12,13 @@ nagikoといいます。
 
 ### 興味を持っていること
 
+好きなものワード | | | |
+--|--|--|--|--
 小説 | 絵 | 二十面相の娘 | Python | ナルキッソス
 発達障害 | 戦姫絶唱シンフォギア | ステージなな | ねこねこソフト(18禁) | 同人誌
 C# | サーバー管理 | 電脳少女シロ | Jazz | pull-top
 映画 | | | |
+
 etc…
 
 
@@ -42,14 +45,16 @@ etc…
 長編も書いていきたいと思っています。一冊の本を自分で製作することが目標です。
 
 小説家になろう！のリンク
-https://mypage.syosetu.com/1051919/
+[https://mypage.syosetu.com/1051919/](https://mypage.syosetu.com/1051919)
 
 ### プログラミングについて
 趣味としてプログラミングをしています。当面は、作りたいもののためにPythonを勉強中ですが、色々手広く噛り付いていこうと思います。
 
 時々GitHubのリンクを投げて質問すると思いますので、お力添えを頂ければと思います。
+
 GitHub - BananaGikoH
-https://github.com/BananaGikoH
+
+[https://github.com/BananaGikoH](https://github.com/BananaGikoH)
 
 ### 取得アカウント一覧
 - [felesitas.cloud](https://felesitas.cloud/@BananaGiko_cle)
@@ -64,6 +69,7 @@ https://github.com/BananaGikoH
   
 ### 外部リンク
 [GitHub](https://github.com/BananaGikoH)
+
 [quesdon](https://quesdon.rinsuki.tk/@BananaGiko_cle@felesitas.cloud)
 
 - discord・Skype
