@@ -3,6 +3,6 @@
 
 ### サイトマップ
 
-[プロフィール](pages/mastodon/profile.md)
+[プロフィール](pages/mastodon-use/profile.md)
 
 [備忘録](pages/etc/bibouroku.md)
