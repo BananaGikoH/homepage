@@ -24,13 +24,14 @@ etc…
 
 ### 注意点
 - ふぁぼが多い！Boostが多い！と思う方へ
-  申し訳ありませんが、ミュートやブロックをご活用お願いします。
+
+申し訳ありませんが、ミュートやブロックをご活用お願いします。
 
 - 女性ですか？男性ですか？
-  男性です。紛らわしいでしょうか？
+男性です。紛らわしいでしょうか？
 
 - アイコンはどうやって作ったの？
-  現在のアイコンは、[chart.me](https://chart.me/)で作成しました。
+現在のアイコンは、[charat.me](https://charat.me/)で作成しました。
   - 多数のパーツの中から、自分の気に入ったキャラクターを作成出来るので、楽しいです。絵柄が可愛いのも特徴ですね。
 
 #### 過去のアイコン
@@ -45,7 +46,7 @@ etc…
 長編も書いていきたいと思っています。一冊の本を自分で製作することが目標です。
 
 小説家になろう！のリンク
-[https://mypage.syosetu.com/1051919/](https://mypage.syosetu.com/1051919)
+[https://mypage.syosetu.com/1051909/](https://mypage.syosetu.com/1051909)
 
 ### プログラミングについて
 趣味としてプログラミングをしています。当面は、作りたいもののためにPythonを勉強中ですが、色々手広く噛り付いていこうと思います。
@@ -58,9 +59,9 @@ GitHub - BananaGikoH
 
 ### 取得アカウント一覧
 - [felesitas.cloud](https://felesitas.cloud/@BananaGiko_cle)
-  主に使用しているアカウントになります。
+主に使用しているアカウントになります。
 - [fuwa.m.to](https://huwa.m.to/@BananaGiko_cle)
-  felesitas.cloudが落ちている時、サーバー状況をここから発信しています。
+felesitas.cloudが落ちている時、サーバー状況をここから発信しています。
 - [don(末代鯖)](https://mstdn.maud.io/@BananaGiko_cle)
 - [pawoo.net](https://pawoo.net/@BananaGiko_cle)
 - [mstdn.jp](https://mstdn.jp@BananaGiko_cle)
@@ -68,9 +69,9 @@ GitHub - BananaGikoH
 - [mastodon.cloud](https://mastodon.cloud/@BananaGiko_cle)
   
 ### 外部リンク
-[GitHub](https://github.com/BananaGikoH)
+- [GitHub](https://github.com/BananaGikoH)
 
-[quesdon](https://quesdon.rinsuki.tk/@BananaGiko_cle@felesitas.cloud)
+- [quesdon](https://quesdon.rinsuki.tk/@BananaGiko_cle@felesitas.cloud)
 
 - discord・Skype
 もやっています。良ければ声を掛けてください。
