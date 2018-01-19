@@ -7,9 +7,11 @@
 
 
 - [linux](pages/linux/index-linux.md)
+
   linux関係の自分なりのまとめ。備忘録的なもの。
 
 - [備忘録](pages/etc/bibouroku.md)
+
   普段の生活の中での備忘録となります。
 
 ### 気をつけてほしいこと

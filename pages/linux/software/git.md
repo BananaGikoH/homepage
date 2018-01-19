@@ -11,7 +11,8 @@
 
 ソースコード編集した後に、
 
-'''bash
+'''
+
 #自分のローカルレポジトリに移動
 cd TO-MY-ROCAL-REPOSITORY-ADRESS
 #最新版を反映する(自分の変更分と競合するか)
@@ -33,18 +34,19 @@ git push
 git　checkout master
 #devブランチからmasterブランチにマージする
 git merge dev
+
 '''
 
 ##### 頻繁に確認するもの
 
-'''bash
+'''
 git status
 git checkout
 '''
 
 ##### その他必要なコマンド
 
-'''bash
+'''
 git config　--global core.editor 'エディタを実行するためのコマンド'
 git config --list
 '''
@@ -63,7 +65,7 @@ git config --list
 
 ブランチの切り替えができる([ここ](https://qiita.com/opengl-8080/items/451c5967cbbc262f4f0d#%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81%E3%82%92%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88%E3%82%8B)を参照)
 
-#「ブランチの切り替え」って、そういう概念として捉えるしかないのだろうか...自分のいるところはこういうところだ、というふんわりした説明・・・
+#「ブランチの切り替え」って、そういう概念として捉えるしかないのだろうか...自分のいるところはこういうところだ、というふんわりした説明しか今は出来ない
 
 - git add *
 
@@ -75,13 +77,15 @@ addで、一旦index(帳簿みたいなところ)に載せる。*にするとす
 
 コマンドを打つとエディタが表示され、コミットメッセージを記述されるよう要求される。1行目がそのままタイトルとなるので注意すること。2行目以降はコメントとなる。
 
-　　- git config　core.editor 'エディタを実行するためのコマンド'
+- git config　core.editor 'エディタを実行するためのコマンド'
 
-  コミット時のエディタを変更するコマンド（[ここ]（https://qiita.com/opengl-8080/items/451c5967cbbc262f4f0d#%E3%82%B3%E3%83%9F%E3%83%83%E3%83%88%E6%99%82%E3%81%AE%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B）を参照）
+  コミット時のエディタを変更するコマンド
+  https://qiita.com/opengl-8080/items/451c5967cbbc262f4f0d#%E3%82%B3%E3%83%9F%E3%83%83%E3%83%88%E6%99%82%E3%81%AE%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B
+  を参照
 
   commit時にいつもnanoを使用したい時は下のように記述する。
 
-'''bash
+'''
 git config --global core.editor 'nano'
 '''
 
@@ -99,7 +103,7 @@ git config --global core.editor 'nano'
   
   上記が分かりやすいかも
   
-  変更内容が正しいことが編集者自身が確認済であり、後戻りすることはないという意味
+  >変更内容が正しいことが編集者自身が確認済であり、後戻りすることはないという意味
   
   その他参考：[kray.jp - Git初心者に捧ぐ！Gitの「これなんで？」を解説します。 - なんでcommitする前にaddしなきゃいけないの？]（http://kray.jp/blog/git-why-explanation/#commit-add）
   
@@ -152,16 +156,17 @@ mergeとは、[併合する、溶け合わせる、(…を)(…に)溶け込ま�
 
 //今後書き加えあり
 
-#####　基本的な流れ
+##### 基本的な流れ
 
-1.　ソースコードをダウンロード
+1. ソースコードをダウンロード
 
 [Level 1]
+
 githubの該当ページにアクセスし、「Clone or download」からzipファイルをダウンロードする
 
 か、
 
-'''bash
+'''
 git clone https://github.com/USER-ACCOUNT/REPOSITORY-NAME.git
 '''
 
