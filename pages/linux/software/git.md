@@ -33,6 +33,8 @@ git push
 git　checkout master
 #devブランチからmasterブランチにマージする
 git merge dev
+#masterブランチをpushする
+git push
 ```
 
 ##### 頻繁に確認するもの
