@@ -5,4 +5,6 @@
 
 [プロフィール](pages/mastodon-use/profile.md)
 
+[linux](pages/linux/index.md)
+
 [備忘録](pages/etc/bibouroku.md)
