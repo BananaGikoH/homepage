@@ -11,8 +11,7 @@
 
 ソースコード編集した後に、
 
-'''
-
+```
 #自分のローカルレポジトリに移動
 cd TO-MY-ROCAL-REPOSITORY-ADRESS
 #最新版を反映する(自分の変更分と競合するか)
@@ -34,22 +33,21 @@ git push
 git　checkout master
 #devブランチからmasterブランチにマージする
 git merge dev
-
-'''
+```
 
 ##### 頻繁に確認するもの
 
-'''
+```
 git status
 git checkout
-'''
+```
 
 ##### その他必要なコマンド
 
-'''
+```
 git config　--global core.editor 'エディタを実行するためのコマンド'
 git config --list
-'''
+```
 
 ### 個人的記述
 
@@ -85,9 +83,9 @@ addで、一旦index(帳簿みたいなところ)に載せる。*にするとす
 
   commit時にいつもnanoを使用したい時は下のように記述する。
 
-'''
+```
 git config --global core.editor 'nano'
-'''
+```
 
 　　- --global
 
@@ -166,9 +164,9 @@ githubの該当ページにアクセスし、「Clone or download」からzipフ
 
 か、
 
-'''
+```
 git clone https://github.com/USER-ACCOUNT/REPOSITORY-NAME.git
-'''
+```
 
 USER-ACCOUNTは各ユーザー等、REPOSITORY-NAMEはリポジトリの名称に読み替える。
 
