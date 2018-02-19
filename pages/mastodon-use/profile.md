@@ -18,7 +18,7 @@ felesitas.cloud内でLTLに反映させる形で報告していただければ�
 
 また、discordを開設していますので、
 
-https://discordapp.com/invite/Rpq8RWF
+[https://discordapp.com/invite/Rpq8RWF](https://discordapp.com/invite/Rpq8RWF)
 
 felesitas.cloudがダウンしている時などは、こちらにご報告いただければと思います。
 
