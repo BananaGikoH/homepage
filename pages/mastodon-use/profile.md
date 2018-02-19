@@ -10,6 +10,15 @@ nagikoといいます。
 - プログラミングやIT系の事について関心を持っています。
 - 現在、[felesitas.cloud](https://felesitas.cloud/about/)というMastodonインスタンスのモデレーターをしています。
 
+### felesitas.cloudでエラーが起こったら
+
+felesitas.cloud内でLTLに反映させる形で報告していただければと思います。
+また、他インスタンスから私のアカウントに報告いただいても構いません。
+また、discordを開設していますので、
+https://discordapp.com/invite/Rpq8RWF
+felesitas.cloudがダウンしている時などは、こちらにご報告いただければと思います。
+よろしくお願いします。
+
 ### 興味を持っていること
 
 好きなものワード | | | |
