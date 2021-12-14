@@ -10,7 +10,7 @@
 
   linux関係の自分なりのまとめ。備忘録的なもの。
 
-- [HP作成時書き残し](pages/etc/homepage.md）
+- [HP作成時書き残し](pages/etc/homepage.md)
 
   このホームページを作成したときの備忘録になります。
 
